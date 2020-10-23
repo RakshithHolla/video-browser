@@ -1,4 +1,4 @@
-# video-browser
+# Vue based video-browser using youtube API
 
 ## Project setup
 ```
@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+In App.vue file, please update the API_KEY value with your youtube API key
